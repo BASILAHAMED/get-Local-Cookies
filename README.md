@@ -2,7 +2,7 @@
 
 ## How to list all the cookies on the current page?
 Fetch local cookies with this **getCookies** python code. 
-If you find this useful, Star my repository. ⭐ ⭐ ⭐
+If you find this helpful, Star my repository. ⭐ ⭐ ⭐
 Happy Cloning Geeks🤝
 
 ## Output
