@@ -5,7 +5,7 @@ Fetch local cookies with this **getCookies** python code.
 If you find this helpful, Star my repository. ⭐ ⭐ ⭐
 
 ## Output 
-```
+``` 
 Executing request GET https://www.google.com/
 Response: 200
 Local cookie: <Cookie 1P_JAR=xxxx-xx-xx-xx for .google.com/>  
