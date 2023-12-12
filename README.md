@@ -1,8 +1,8 @@
 ## get-Local-Cookies
 
-## How to list all the cookies on the current page?
+## How to list all the cookies on the current page?  ⭐ ⭐ 
 Fetch local cookies with this **getCookies** python code. 
-If you ⭐ ⭐ 
+If you
 
 ## Output 
 ``` 
