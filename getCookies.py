@@ -5,6 +5,7 @@ session = requests.session()
 
 # Create an HTTP GET request
 url = "https://www.google.com/"
+
 response = session.get(url)
 print("Executing request", response.request.method, response.request.url)
 
